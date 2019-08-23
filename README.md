@@ -5,3 +5,4 @@ This is the code for the *Neurocomputing* 2019 paper "Monolithic Image Decomposi
 -----------------------------------------------------------------------------------------------------------------------
 <img src="https://user-images.githubusercontent.com/18275012/63567809-f1e76a80-c5ad-11e9-9ef4-64f48b3adf34.png"></img>
 -----------------------------------------------------------------------------------------------------------------------
+Figure. Egamples of original images (left) and structure images (right). 
